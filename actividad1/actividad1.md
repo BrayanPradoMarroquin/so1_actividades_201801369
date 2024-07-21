@@ -19,3 +19,6 @@
 
 ## Dirección IPC
 "Es un identificador unico para que todo dispositivo electronico se pueda conectar a la red, hoy en día hay dos tipos de direcciones IP, esta el IPV4 y IPV6 los cuales principalmente cambian en su tamaño. Ya que el IPV4 utiliza 32 bits y el IPV6 utiliza 128 bits entonces puede generar mas direcciones IP"
+
+# CONCLUSION
+Podemos notar que hay personas que posiblemente saben para que sirve cada uno de estos terminos, pero no cuestiones especificas y tecnicas, para mientras que personas que han podido estudiar distintos aspectos de ello, saben y tienen conocimientos mas amplios acerca de la terminologia de los conceptos vistos en este caso.
