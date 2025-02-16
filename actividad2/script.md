@@ -15,7 +15,7 @@ Url="https://api.github.com/users/$BrayanPradoMarroquin"
 
 Respuesta=$(curl -s $Url)
 ```
-## Obtener los valores del JSON
+## Obtener los valores del JSON hola
 ```
 github_user=$(echo $Respuesta | jq -r '.login')
 
